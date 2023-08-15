@@ -1,6 +1,6 @@
-### Arohash | Método de encriptación de Ariel Alzogaray Flores
+# Arohash | Método de encriptación de Ariel Alzogaray Flores
 
-En el método de encriptación Arohash me valí principalmente del uso de números primos y de la posición de las letras en el abecedario tanto en mínuscula como mayúscula:
+## En el método de encriptación Arohash me valí principalmente del uso de números primos y de la posición de las letras en el abecedario tanto en mínuscula como mayúscula:
 
 1. Invertir las palabras en el texto:
 Se Divide el texto en palabras y luego se invierte cada palabra individualmente.
